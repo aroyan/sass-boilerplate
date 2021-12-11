@@ -1,6 +1,6 @@
 # SASS Boilerplate
 
-This is a my SASS Boilerplate with some customize styles
+This is a my SASS Boilerplate with some reset base styles
 
 ## Table of contents
 
