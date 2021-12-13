@@ -5,8 +5,4 @@
   flex-wrap: wrap;
 }
 
-@mixin responsive($breakpoint) {
-  @media screen and (min-width: $breakpoint) {
-    //your responsive css
-  }
-}
+
